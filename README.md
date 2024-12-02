@@ -12,15 +12,13 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [LeonardoAI](https://leonardo.ai/)
-- [Descript](https://www.descript.com/)
+- [Excel](https://www.microsoft.com/pt-br/microsoft-365/p/excel/cfq7ttc0hlkm)
 
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Leonardo AI
-- Edição e montagem via Descript
+- Conteúdo para análise via ChatGPT
+- Dados gerados através do excel
 
 
 ## 👨‍💻 Expert
