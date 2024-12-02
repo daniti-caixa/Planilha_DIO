@@ -1,19 +1,13 @@
 # Planilha_DIO
 Desafio DIO_Tabela Dinâmica
 
-<p align="center">
-<img 
-    src="IA_Industria.jpg"
-    width="400"  
-/>
-</p>
 
 
 
-Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar uma planilha para analise de gastos. todos os prompts
 seguem abaixo.
 
-<a href="PostCad_Automatizao_Processos_com_IA_na_Industria.mp3" title="View PDF now"> 📕Clique aqui para ouvir</a>
+<a href="Despesas.xlsx" title="View Excel now"> 📕Clique aqui para abrir a planilha</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
